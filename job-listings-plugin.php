@@ -3,7 +3,7 @@
  * Plugin Name: Job Listings Shortcode
  * Description: פלאגין להצגת משרות עם הרחבת פרטים וטופס הגשת מועמדות בפופאפ פנימי
  * Version: 1.0
- * Author: Your Name
+ * Author: yigal neeman
  */
 
 if (!defined('ABSPATH')) {
